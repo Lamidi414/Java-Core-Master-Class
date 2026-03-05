@@ -1,0 +1,17 @@
+22nd Feb, 2026
+--------------
+				Day 01 Of Java Class
+				--------------------
+
+Java Environment
+----------------
+Java Virtual Machine(JVM)
+Java Runtime Environment(JRE)
+Java Development Kit(JDK)
+
+
+Java IDE(Integrated Development Environment):
+--------------------------------------------
+IntelliJ (Development)
+Netbeans *** (Educational purpose)
+Esclipe ( middle-man)
