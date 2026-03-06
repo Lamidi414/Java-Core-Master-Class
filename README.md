@@ -124,10 +124,10 @@ To run the Java programs in this repository you need:
 
 - Java JDK installed
 - A code editor such as:
-  - IntelliJ IDEA
-  - VS Code
-  - Eclipse
   - NetBeans
+  - IntelliJ IDEA
+  - Eclipse
+  - VS Code
 
 ---
 ## Course Roadmap
