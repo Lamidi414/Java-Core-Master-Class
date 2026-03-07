@@ -46,5 +46,8 @@ public class AverageNum2 {
     //Display the print
     System.out.println("Sum of The Five Numbers = "+ sum);
     System.out.println("The Average of the Five Numbers = "+ average);
+
+    //Closing the Scanner object
+    input.close();
   }
 }
