@@ -16,7 +16,7 @@ public class SalaryCalculator {
       int salary = sc.nextInt();
       
       //Computing Salary output.
-      double bonus = salary * 0.01;  //10%
+      double bonus = salary * 0.1;  //10%
       double gross = salary + bonus;
       double tax = gross * 0.08; // 8%
       double netSalary = gross - tax;
